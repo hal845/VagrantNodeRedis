@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/myMEANApp":{"guestpath":"/vagrant/myMEANApp","hostpath":"C:/Vagrant/Projects/Node 0.10.38/myMEANApp","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Vagrant/Projects/Node 0.10.38","disabled":false,"__vagrantfile":true}}}
